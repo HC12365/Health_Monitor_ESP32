@@ -20,4 +20,4 @@
 
 ## 如何运行
 将本项目文件夹克隆到本地，用 Arduino IDE 打开 `.ino` 文件，安装所需库，配置好 WiFi 和 MQTT 参数，烧录至 ESP32 即可。
-![硬件原理图](schematic.png)
+[下载原理图 (PDF)](schematic.png)
